@@ -11,8 +11,8 @@
       * Each page has a maximum of 20 records
       *
       * Files:
-      * Input file: A7.REPAIR.OUT (REPL-DATA-IN)
-      * Output file: A8.SUMMARY.RPT (REPL-REPORT)
+      * Input file: RAW.REPAIR.OUT (REPL-DATA-IN)
+      * Output file: REPAIR.SUMMARY.OUT (REPL-REPORT)
       
 
        ENVIRONMENT DIVISION.
